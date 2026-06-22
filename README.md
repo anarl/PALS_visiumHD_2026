@@ -12,11 +12,18 @@ Instructor : Ana Rosa López Pérez
 The analysis workflow requires a specific set of bioinformatics and data science libraries. These are managed via a Conda environment defined in VisiumHD_workshop.yml.
 
 To create the environment, execute:
+- In MacOS
 
 ```bash
 conda env create -f VisiumHD_workshop.yml
 conda activate visiumhd_course
 ```
+In Windows:
+```bash
+conda env create -f VisiumHD_workshop_windows.yml
+conda activate visiumhd_course
+```
+
 
 ## Dataset
 
