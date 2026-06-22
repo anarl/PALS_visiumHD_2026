@@ -1,0 +1,15 @@
+name: visiumhd_course
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - numpy
+  - pandas
+  - scanpy
+  - matplotlib
+  - stardist
+  - scikit-misc
+  - python-igraph
+  - leidenalg
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/visiumhd_course
