@@ -9,7 +9,5 @@ dependencies:
   - scanpy
   - matplotlib
   - stardist
-  - scikit-misc
   - python-igraph
   - leidenalg
-prefix: /opt/homebrew/Caskroom/miniforge/base/envs/visiumhd_course
